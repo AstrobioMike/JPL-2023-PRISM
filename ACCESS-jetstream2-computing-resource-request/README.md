@@ -6,6 +6,7 @@
 >   - "Explore ACCESS" description and different project types listed here: https://allocations.access-ci.org/project-types
 >   - JetStream2 credits estimator: https://docs.jetstream-cloud.org/alloc/estimator/
 > - As of 2024, an "Explore ACCESS" request comes with 200,000 starting credits, and 400,000 total, and there is no where in the form we specify the exact credits we are requesting, as was needed when this request was submitted – though I'm still listing my estimate in the overview paragraph.
+> - As of 2024, it seems we don't by default get extra storage too. I'm 
 ---
 
 ---
@@ -61,4 +62,14 @@ In comments box:
 
 ---
 
+> **NOTE**
+> This first way is how it was done at the time of this submission. The second way below is how it needed to be done after changes in 2024.
+ 
 Once approved, and logged in, needed this page (https://allocations.access-ci.org/requests) in order to transfer ACCESS credits to specific resource as detailed on this page (https://allocations.access-ci.org/use-credits-overview). For the appropriate allocation request, selected "Choose New Action", then "Exchange". On next screen, chose Indiana Jetstream2 as Resource, clicked "Add Resource", entered all credits, needed to add a comment, and then submitted.
+
+---
+*This is how it would be done as of 2024*  
+
+Once approved, and logged in, needed this page (https://allocations.access-ci.org/requests) in order to transfer ACCESS credits to a specific resource. For the appropriate allocation/Project, selected "Credits + Resources", then the text box that initially says "Add a resrouce to your exchange...", then selected "Indiana Jetstream2 CPU", then entered the full amount available for CPU and Storage, enter a comment and then submit. (When I did this last, no Storage was available after getting the ACCESS credits awarded, and I needed to submit a help ticket.)
+
+---
