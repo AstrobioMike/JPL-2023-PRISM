@@ -1,4 +1,16 @@
 # Application submission info
+---
+---
+> **UPDATES**
+> - I noticed some of the links listed below had changed on the ACCESS website, so here are updated ones as of 2024:
+>   - "Explore ACCESS" description and different project types listed here: https://allocations.access-ci.org/project-types
+>   - JetStream2 credits estimator: https://docs.jetstream-cloud.org/alloc/estimator/
+> - As of 2024, an "Explore ACCESS" request comes with 200,000 starting credits, and 400,000 total, and there is no where in the form we specify the exact credits we are requesting, as was needed when this request was submitted – though I'm still listing my estimate in the overview paragraph.
+---
+
+---
+
+<br>
 
 ---
 > Submitted on 18-Jan-2023 and approved within a few hours.
@@ -7,6 +19,7 @@
 Submitted through ACCESS: https://access-ci.org/
 
 Submitted an "Explore ACCESS", different types listed here: https://allocations.access-ci.org/prepare-requests-overview
+    * links were changed, noticed in 2024, 
 
 After logged in, submission process started from this page: https://allocations.access-ci.org/opportunities
 
